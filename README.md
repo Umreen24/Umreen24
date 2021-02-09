@@ -1,7 +1,7 @@
 # Hi! I'm Umreen :wave:
 
 ### Allow me to introduce myself: 
-##### I am a Web Developer, and I'm very passionate and dedicated to my work. I enjoy all aspects of designing an application, and get very excited to collaborate and discuss ideas with others to build and deliver unique products and apps! I :heart: JavaScript & Python, discovering new music to bop my head to, technology, and all things productivity tools!
+##### I am a Web Developer, and I'm very passionate and dedicated to my work. I enjoy all aspects of designing an application, and get very excited to collaborate and discuss ideas with others to build and deliver unique products and apps! I :heart: JavaScript & Python, discovering new music to bop my head to, technology, and all things coffee :coffee:
 
 #### 😄 Pronouns: she/her
 
