@@ -1,7 +1,9 @@
 # Hi! I'm Umreen
 
 ### Allow me to introduce myself: 
-##### I am a Web Developer, and I'm very passionate and dedicated to my work. I enjoy all aspects of designing an application, and get very excited to collaborate and discuss ideas with others to build and deliver unique products and apps! 
+##### I am a Web Developer, and I'm very passionate and dedicated to my work. I enjoy all aspects of designing an application, and get very excited to collaborate and discuss ideas with others to build and deliver unique products and apps!
+
+#### 😄 Pronouns: she/her
 
 ## Currently...
 
@@ -9,33 +11,21 @@
   * Getting a Master's degree in Data Analytics
   * Building a weather application to work on my frontend skills
   * Creating a Skillshare lesson on Web Development
-  
-<br/>
 
 #### 🌱 I’m currently learning: 
   * How to perform data analysis using Python and packages such as Pandas, Numpy, Matplotlib, and so much more
   * Object oriented programming with Python (needing a refresher)
   * How to use Notion to its full potential to organize my life 
 
-<br/>
-
 #### 📫 How to reach me:
   * [LinkedIn] https://www.linkedin.com/in/umreen-imam/
   * [Twitter] https://twitter.com/umreeny24
-
-<br/>
-
-#### 😄 Pronouns: she/her
-
-<br/>
 
 #### ⚡ Fun fact:
   * I have a podcast! I'm the host of, The Press Pod. A show where I provide my insights and experiences with productivity, technology, and career changes. Oh and most importantly, coffee! You can listen to it on your favorite podcast streaming service or here: https://thepresspod.transistor.fm
   
 #### Fun fact 2: 
   * I LOVE anything everything productivity & backpacks. Strange combo or the combo that's missing from your life? :open_mouth:
-
-<br/>
 
 #### :books: Books I'm currently reading: 
   * Anxious People by Fredrik Backman
