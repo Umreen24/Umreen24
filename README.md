@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi! I'm Umreen
 
-<!--
-**Umreen24/Umreen24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Allow me to introduce myself: 
+##### I am a Web Developer, and I'm very passionate and dedicated to my work. I enjoy all aspects of designing an application, and get very excited to collaborate and discuss ideas with others to build and deliver unique products and apps! 
 
-Here are some ideas to get you started:
+## Currently...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 I’m working on: 
+  * Getting a Master's degree in Data Analytics
+  * Building a weather application to work on my frontend skills
+  * Creating a Skillshare lesson on Web Development
+  
+<br/>
+
+#### 🌱 I’m currently learning: 
+  * How to perform data analysis using Python and packages such as Pandas, Numpy, Matplotlib, and so much more
+  * Object oriented programming with Python (needing a refresher)
+  * How to use Notion to its full potential to organize my life 
+
+<br/>
+
+#### 📫 How to reach me:
+  * [LinkedIn] https://www.linkedin.com/in/umreen-imam/
+  * [Twitter] https://twitter.com/umreeny24
+
+<br/>
+
+#### 😄 Pronouns: she/her
+
+<br/>
+
+#### ⚡ Fun fact:
+  * I have a podcast! I'm the host of, The Press Pod. A show where I provide my insights and experiences with productivity, technology, and career changes. Oh and most importantly, coffee! You can listen to it on your favorite podcast streaming service or here: https://thepresspod.transistor.fm
+  
+#### Fun fact 2: 
+  * I LOVE anything everything productivity & backpacks. Strange combo or the combo that's missing from your life? :open_mouth:
+
+<br/>
+
+#### :books: Books I'm currently reading: 
+  * Anxious People by Fredrik Backman
+  * The Motivation Myth by Jeff Haden
+  
+  #### A book that I think EVERYONE should read: 
+    * Show Your Work! by Austin Kleon
