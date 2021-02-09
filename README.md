@@ -22,11 +22,9 @@
   * [Twitter] https://twitter.com/umreeny24
 
 #### ⚡ Fun fact:
-  * I have a podcast! I'm the host of, The Press Pod. 
+  * I have a podcast! I'm the host of, The Press Pod. A show where I provide my insights and experiences with productivity, technology, and career changes. Oh and most importantly, coffee! You can listen to it on your favorite podcast streaming service or here: https://thepresspod.transistor.fm
   
-  <img src='new_logo.jpg' width='300px' height='200px' align="right" />
-  
-  * A show where I provide my insights and experiences with productivity, technology, and career changes. Oh and most importantly, coffee! You can listen to it on your favorite podcast streaming service or here: https://thepresspod.transistor.fm
+  <img src='new_logo.jpg' width='250px' height='200px' align="right" />
   
 #### Fun fact 2: 
   * I LOVE anything everything productivity & backpacks. Strange combo or the combo that's missing from your life? :open_mouth:
