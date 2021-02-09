@@ -24,7 +24,7 @@
 #### ⚡ Fun fact:
   * I have a podcast! I'm the host of, The Press Pod. 
   
-  <img src='new_logo.jpg'/>
+  <img src='new_logo.jpg' width='200px' height='200px'/>
   
   * A show where I provide my insights and experiences with productivity, technology, and career changes. Oh and most importantly, coffee! You can listen to it on your favorite podcast streaming service or here: https://thepresspod.transistor.fm
   
