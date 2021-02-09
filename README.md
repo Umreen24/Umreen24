@@ -42,4 +42,4 @@
   * The Motivation Myth by Jeff Haden
   
   #### A book that I think EVERYONE should read: 
-    * Show Your Work! by Austin Kleon
+   Show Your Work! by Austin Kleon
