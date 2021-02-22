@@ -29,8 +29,9 @@
   * I also LOVE anything everything productivity tools, bullet journaling, & backpacks. Strange combo or the combo that's missing from your life? :open_mouth:
 
 #### :books: Books I'm currently reading: 
-  * Anxious People by Fredrik Backman
+  * Star Wars - The High Republic: The Light of the Jedi by Charles Soule
   * The Motivation Myth by Jeff Haden
   
-  #### A book that I think EVERYONE should read: 
+  #### Books I think EVERYONE should read: 
    Show Your Work! by Austin Kleon
+   Anxious People by Fredrik Backman
