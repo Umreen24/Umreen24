@@ -32,6 +32,6 @@
   * Star Wars - The High Republic: The Light of the Jedi by Charles Soule
   * The Motivation Myth by Jeff Haden
   
-  #### Books I think EVERYONE should read: 
+#### :books: Books I think EVERYONE should read: 
    Show Your Work! by Austin Kleon <br/>
    Anxious People by Fredrik Backman
