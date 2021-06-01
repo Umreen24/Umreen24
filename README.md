@@ -11,7 +11,7 @@
  * Obtaining a Master's degree in Data Analytics
  * Learning Tableau and improving my SQL skills
  * An application to make keeping track of my puppy's daily activities a little easier
- * An weather app to improve my frontend development skills
+ * A weather app to improve my frontend development skills
 
 #### 🌱 I’m currently learning: 
   * How to perform data analysis using Python and packages such as Pandas, Numpy, Matplotlib, and so much more
