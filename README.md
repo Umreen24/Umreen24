@@ -8,14 +8,14 @@
 ## Currently...
 
 #### 🔭 I’m working on: 
-  * Getting a Master's degree in Data Analytics
-  * Building a weather application to work on my frontend skills
-  * Creating a Skillshare lesson on Web Development
+ * Obtaining a Master's degree in Data Analytics
+ * Learning Tableau and improving my SQL skills
+ * An application to make keeping track of my puppy's daily activities a little easier
+ * An weather app to improve my frontend development skills
 
 #### 🌱 I’m currently learning: 
   * How to perform data analysis using Python and packages such as Pandas, Numpy, Matplotlib, and so much more
-  * Object oriented programming with Python (needing a refresher)
-  * How to use Notion to its full potential to organize my life 
+  * R for statistical analysis
 
 #### 📫 How to reach me:
   * [LinkedIn] https://www.linkedin.com/in/umreen-imam/
