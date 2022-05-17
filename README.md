@@ -1,21 +1,9 @@
 # Hi! I'm Umreen :wave:
 
 ### Allow me to introduce myself: 
-##### I am a Web Developer, and I'm very passionate and dedicated to my work. I enjoy all aspects of designing an application, and get very excited to collaborate and discuss ideas with others to build and deliver unique products and apps! I :heart: JavaScript & Python, discovering new music to bop my head to, technology, and all things coffee :coffee:
+##### I'm a data analyst and full stack web developer. I've always been a "gut follower," and my previous experiences have shaped who I am and the work I do today. My passion for analytics and exploring large amounts of data to create helpful, meaningful, and creative visualizations led me to go back to school for a Masters in Data Analytics.  Although I love analytics, I will always have a passion for creating web applications (#TeamPython & #TeamJavaScript). I enjoy all aspects of designing an application, and get very excited to collaborate and discuss ideas with others to build and deliver unique products! In my free time you can find me dj-ing, playing with my puppy, or building keyboards!
 
 #### 😄 Pronouns: she/her
-
-## Currently...
-
-#### 🔭 I’m working on: 
- * Obtaining a Master's degree in Data Analytics
- * Learning Tableau and improving my SQL skills
- * An application to make keeping track of my puppy's daily activities a little easier
- * A weather app to improve my frontend development skills
-
-#### 🌱 I’m currently learning: 
-  * How to perform data analysis using Python and packages such as Pandas, Numpy, Matplotlib, and so much more
-  * R for statistical analysis
 
 #### 📫 How to reach me:
   * [LinkedIn] https://www.linkedin.com/in/umreen-imam/
