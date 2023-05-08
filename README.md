@@ -7,8 +7,6 @@
 
 #### 📫 How to reach me:
   * [LinkedIn] https://www.linkedin.com/in/umreen-imam/
-  * [Twitter] https://twitter.com/umreeny24
-  * [Instagram] https://www.instagram.com/the_presspod/
 
 #### ⚡ Fun fact:
 
