@@ -12,7 +12,7 @@
 
   <img src='new_logo.jpg' width='250px' height='200px' align="right" />
   
-  * I have a podcast! I'm the host and creator of, The Press Pod. A show where I provide my insights and experiences with productivity, technology, and career changes. Oh and most importantly, coffee! You can listen to it on your favorite podcast streaming service or here: https://thepresspod.transistor.fm
+  * I have a podcast! I'm the host and creator of, The Press Pod. A show where I provide my insights and experiences with productivity, technology, and career changes. Oh and most importantly, coffee! You can listen to it on your favorite podcast streaming service.
   * I also LOVE anything everything productivity tools, bullet journaling, & backpacks. Strange combo or the combo that's missing from your life? :open_mouth:
 
 #### :books: Books I'm currently reading: 
