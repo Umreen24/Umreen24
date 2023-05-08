@@ -16,8 +16,10 @@
   * I also LOVE anything everything productivity tools, bullet journaling, & backpacks. Strange combo or the combo that's missing from your life? :open_mouth:
 
 #### :books: Books I'm currently reading: 
-  * A Man Called Ove - Fredrik Backman
+  * Bullet Train by Kotaro Isaka <br/>
+  * Beautiful World, Where are You? by Sally Rooney <br/>
   
 #### :books: Books I think EVERYONE should read: 
+   * Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin <br/> 
    * Show Your Work! by Austin Kleon <br/>
    * Anxious People by Fredrik Backman
