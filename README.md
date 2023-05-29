@@ -9,8 +9,6 @@
   * [LinkedIn] https://www.linkedin.com/in/umreen-imam/
 
 #### ⚡ Fun fact:
-
-  <img src='new_logo.jpg' width='250px' height='200px' align="right" />
   
   * I'm an amateur DJ 
   * Data Analyst by day, PC and keyboard builder by night
