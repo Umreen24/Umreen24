@@ -10,15 +10,14 @@
 
 #### ⚡ Fun fact:
   
-  * I'm an amateur DJ 
+  * I'm an amateur DJ and guitar player
   * Data Analyst by day, PC and keyboard builder by night
   * I love anything everything productivity tools, bullet journaling, & backpacks. Strange combo or the combo that's missing from your life? :open_mouth:
 
-#### :books: Books I'm currently reading: 
-  * Bullet Train by Kotaro Isaka <br/>
-  * Beautiful World, Where are You? by Sally Rooney <br/>
+#### The book(s) I'm currently reading: 
+  * Hopscotch by Julio Cortazar <br/>
   
-#### :books: Books I think EVERYONE should read: 
+#### Books I think EVERYONE should read: 
    * Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin <br/> 
-   * Show Your Work! by Austin Kleon <br/>
+   * Before the Coffee gets Cold by Toshikazu Kawaguchi <br/>
    * Anxious People by Fredrik Backman
